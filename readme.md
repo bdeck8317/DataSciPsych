@@ -1,0 +1,9 @@
+# Welcome
+
+Glad you found us. This is a public repo for the Data Science in Psychology group at Drexel University. If you found us from outside this group please feel free to add us
+on [Slack](https://join.slack.com/t/datasciencean-lot8019/shared_invite/zt-hjhaz9gw-7bHVuROpdFn_uvT074wtUQ). 
+
+## Weekly Meetings 
+We currently hold weekly meetings every Thursday at 2 pm. Topics for discussion are always up to who attends. Previous discussions have included parameter selection
+for machine learning models, How to get started using Docker containers, Network Science analysis, and group code review. Feel free to post in our slack if you're interested
+in exploring a topic with us!
