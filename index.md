@@ -16,4 +16,4 @@ Once a month we get together and discuss an ongoing topic in data science and as
 
 
 [Resources]()
-[Click me](http://www.google.com){: .btn}
+
