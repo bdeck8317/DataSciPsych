@@ -12,15 +12,3 @@ Support Vector Machines in [R](https://www.datacamp.com/community/tutorials/supp
 
 [Git/ Github tutorial](https://www.youtube.com/watch?v=7h5tEPfM59U&feature=emb_logo)
 
-
-
-
-
-
-
-
-
-
-
-
-[Home](index.md)
