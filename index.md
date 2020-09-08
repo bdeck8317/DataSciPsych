@@ -1,3 +1,6 @@
+<img src="density_plot_cropped.jpg" class="inline"/>
+
+
 # Welcome
 
 Glad you found us. This is a public repo for the Data Science in Psychology group at Drexel University. If you found us from outside this group please feel free to add us
