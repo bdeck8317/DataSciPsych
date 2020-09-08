@@ -17,4 +17,4 @@ Once a month we get together and discuss an ongoing topic in data science and as
 
 [Resources](resources.md)           
 
-[Contact]()
+[Contact Us](contact.md)
