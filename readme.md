@@ -11,6 +11,3 @@ in exploring a topic with us!
 ### Monthly topic discussions
 Once a month we get together and discuss an ongoing topic in data science and ask a guest speaker to come in and give their thoughts on the topic. If you have any suggestions please feel free to contact us on Slack.
 
-
-[Resources]()
-[Click me](http://www.google.com){: .btn}
