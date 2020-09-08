@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Welcome
 
-You can use the [editor on GitHub](https://github.com/bdeck8317/DataSciPsych/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Glad you found us. This is a public repo for the Data Science in Psychology group at Drexel University. If you found us from outside this group please feel free to add us
+on [Slack](https://join.slack.com/t/datasciencean-lot8019/shared_invite/zt-hjhaz9gw-7bHVuROpdFn_uvT074wtUQ). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Weekly Meetings 
+We currently hold weekly meetings every Thursday at 2 pm. Topics for discussion are always up to who attend. Previous discussions have included parameter selection
+for machine learning models, how to get started using Docker containers, network science analysis, and group code review. Feel free to post in our slack if you're interested
+in exploring a topic with us!
 
-### Markdown
+### Monthly topic discussions
+Once a month we get together and discuss an ongoing topic in data science and ask a guest speaker to come in and give their thoughts on the topic. If you have any suggestions please feel free to contact us on Slack.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bdeck8317/DataSciPsych/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Resources]()
+[Click me](http://www.google.com){: .btn}
