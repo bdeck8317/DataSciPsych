@@ -5,6 +5,7 @@
 
 [Support Vector Machines](https://www.datacamp.com/community/tutorials/support-vector-machines-r) using R programming
 
+[Spin instead of .Rmd?](https://deanattali.com/2015/03/24/knitrs-best-hidden-gem-spin/)
 
 ## Stats and Theory
 [Linear Mixed Effects Modeling](https://thestatsgeek.com/2014/08/17/robustness-of-linear-mixed-models/)
