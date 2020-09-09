@@ -30,6 +30,6 @@ https://github.com/bdeck8317/DataSciPsych.git
 ### Navigation
 
 
-[Resources](resources.md)           
+[Learning Resources](resources.md)           
 
 [Contact Us](contact.md)
