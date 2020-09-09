@@ -11,6 +11,8 @@
 
 [Naive Bayes Classifiers](https://jakevdp.github.io/PythonDataScienceHandbook/05.05-naive-bayes.html)
 
+[Feature Selection Bias](https://www.sciencedirect.com/science/article/pii/S0933365715001426)
+
 
 ## Python programming
 
