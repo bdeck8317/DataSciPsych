@@ -1,9 +1,9 @@
 # Resources
 
 ## R programming
-[Data Visualization in R](https://www.datacamp.com/courses/data-visualization-with-ggplot2-part-3)
+[Data Visualization](https://www.datacamp.com/courses/data-visualization-with-ggplot2-part-3) using R programming
 
-Support Vector Machines in [R](https://www.datacamp.com/community/tutorials/support-vector-machines-r)
+[Support Vector Machines](https://www.datacamp.com/community/tutorials/support-vector-machines-r) using R programming
 
 
 ## Stats and Theory
@@ -14,11 +14,11 @@ Support Vector Machines in [R](https://www.datacamp.com/community/tutorials/supp
 
 ## Python programming
 
-Support Vector Machines in [Python](https://jakevdp.github.io/PythonDataScienceHandbook/05.07-support-vector-machines.html)
+[Support Vector Machines](https://jakevdp.github.io/PythonDataScienceHandbook/05.07-support-vector-machines.html) using python and scikitlearn
 
-[Hyperparameter Selection / Model Validation in pyhton using scikit-learn](https://jakevdp.github.io/PythonDataScienceHandbook/05.03-hyperparameters-and-model-validation.html)
+[Hyperparameter Selection / Model Validation](https://jakevdp.github.io/PythonDataScienceHandbook/05.03-hyperparameters-and-model-validation.html) using python and scikit-learn
 
-[Naive Bayes Classifiers in python using scikit-learn](https://jakevdp.github.io/PythonDataScienceHandbook/05.05-naive-bayes.html)
+[Naive Bayes Classifiers](https://jakevdp.github.io/PythonDataScienceHandbook/05.05-naive-bayes.html) using python and scikit-learn
 
 
 ## Tools for the Data Scientist
