@@ -28,4 +28,4 @@
 
 [Git/ Github tutorial](https://www.youtube.com/watch?v=7h5tEPfM59U&feature=emb_logo)
 
-Advice for conducting a team based [code review](https://google.github.io/eng-practices/review/reviewer/)
+Advice for conducting a team-based [code review](https://google.github.io/eng-practices/review/reviewer/)
