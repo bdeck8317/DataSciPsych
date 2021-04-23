@@ -15,6 +15,9 @@
 [Feature Selection Bias](https://www.sciencedirect.com/science/article/pii/S0933365715001426)
 
 
+[Data Simulation tutorial in R](https://crumplab.github.io/programmingforpsych/simulating-and-analyzing-data-in-r.html#power-analysis-and-sample-size-planning-by-monte-carlo-simulation)
+
+
 ### Python programming
 
 [Support Vector Machines](https://jakevdp.github.io/PythonDataScienceHandbook/05.07-support-vector-machines.html) using python and scikitlearn
